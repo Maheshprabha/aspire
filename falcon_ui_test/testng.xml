@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Sample Master Suite File containing all relevant Suite Files -->
+<suite name="CompanySetup">
+
+	<suite-files>
+		<suite-file path="./src/main/resources/suitefile/manageractionapprove.xml" />
+		<suite-file path="./src/main/resources/suitefile/manager_approve.xml" />
+		<suite-file path="./src/main/resources/suitefile/manager_reject.xml" />
+		  <suite-file path="./src/main/resources/suitefile/shifts.xml"/>
+	</suite-files>
+
+</suite>

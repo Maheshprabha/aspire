@@ -1,0 +1,90 @@
+2020-11-13 14:00:58,985  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Opening browser: chrome
+2020-11-13 14:01:04,341  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Maximizing browser window
+2020-11-13 14:01:07,863  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - STEP#1: Entering the Email
+2020-11-13 14:01:08,030  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Successfully entered Email
+2020-11-13 14:01:08,031  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - STEP#2: Entering the Password
+2020-11-13 14:01:08,135  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Successfully entered Password
+2020-11-13 14:01:08,135  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - STEP#3: Click on Login button
+2020-11-13 14:01:13,214  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Successfully clicked on login button
+2020-11-13 14:01:13,215  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Clicking on the Timesheet
+2020-11-13 14:01:14,575  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Successfully clicked on the Timesheet
+2020-11-13 14:01:14,614  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Click on the previous button
+2020-11-13 14:01:15,109  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Successfully clicked on the previous button
+2020-11-13 14:01:15,329  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - STEP#5: Validating the Breadcrum
+2020-11-13 14:01:15,716  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] VerificationManager:251 - PASS : Successfully validated the text Actual value : Timesheet Create or Update Timings is same as Expected value: Timesheet Create or Update Timings
+2020-11-13 14:01:15,717  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Successfully validated breadcrum
+2020-11-13 14:01:15,717  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - STEP#6: Selecting the activity
+2020-11-13 14:01:16,016  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Successfully selected on Select Activity
+2020-11-13 14:01:16,017  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - STEP#7: Entering hours to the days
+2020-11-13 14:01:16,304  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Successfully Entered time value
+2020-11-13 14:01:16,563  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Successfully Entered time value
+2020-11-13 14:01:16,757  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Successfully Entered time value
+2020-11-13 14:01:16,952  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Successfully Entered time value
+2020-11-13 14:01:17,141  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Successfully Entered time value
+2020-11-13 14:01:17,141  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - STEP#8: Add Notes
+2020-11-13 14:01:17,340  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] VerificationManager:251 - PASS : Validating the tooltip message is same as expected or not Actual value : Notes is same as Expected value: Notes
+2020-11-13 14:01:17,341  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Successfully validated Notes value
+2020-11-13 14:01:17,533  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Successfully Entered notes value
+2020-11-13 14:01:17,640  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - STEP#9: Add Activity
+2020-11-13 14:01:17,838  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] VerificationManager:251 - PASS : Validating the tooltip message is same as expected or not Actual value : Add Activity is same as Expected value: Add Activity
+2020-11-13 14:01:17,838  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Successfully validated Add activity value
+2020-11-13 14:01:17,920  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Successfully clicked on add activity
+2020-11-13 14:01:17,921  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - STEP#10: Selecting the second activity
+2020-11-13 14:01:18,282  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Successfully selected Activity
+2020-11-13 14:01:18,282  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - STEP#11: Delete Activity
+2020-11-13 14:01:18,466  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] VerificationManager:251 - PASS : Validating the tooltip message is same as expected or not Actual value : Delete Activity is same as Expected value: Delete Activity
+2020-11-13 14:01:18,467  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Successfully validated Delete activity value
+2020-11-13 14:01:18,535  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Successfully clicked on add activity
+2020-11-13 14:01:18,536  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - STEP#12: Submit button
+2020-11-13 14:01:18,775  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] VerificationManager:251 - PASS : Validating the tooltip message is same as expected or not Actual value : Timesheet submitted successfully is same as Expected value: Timesheet submitted successfully
+2020-11-13 14:01:18,775  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Successfully validated submit message
+2020-11-13 14:01:18,775  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Click on the next button
+2020-11-13 14:01:19,222  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Successfully clicked on the next button
+2020-11-13 14:01:19,444  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - STEP#5: Validating the Breadcrum
+2020-11-13 14:01:19,570  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] VerificationManager:251 - PASS : Successfully validated the text Actual value : Timesheet Create or Update Timings is same as Expected value: Timesheet Create or Update Timings
+2020-11-13 14:01:19,571  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Successfully validated breadcrum
+2020-11-13 14:01:19,571  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - STEP#6: Selecting the activity
+2020-11-13 14:01:19,961  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Successfully selected on Select Activity
+2020-11-13 14:01:19,961  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - STEP#7: Entering hours to the days
+2020-11-13 14:01:20,268  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Successfully Entered time value
+2020-11-13 14:01:20,452  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Successfully Entered time value
+2020-11-13 14:01:20,634  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Successfully Entered time value
+2020-11-13 14:01:20,826  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Successfully Entered time value
+2020-11-13 14:01:21,014  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Successfully Entered time value
+2020-11-13 14:01:21,015  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - STEP#8: Add Notes
+2020-11-13 14:01:21,208  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] VerificationManager:251 - PASS : Validating the tooltip message is same as expected or not Actual value : Notes is same as Expected value: Notes
+2020-11-13 14:01:21,209  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Successfully validated Notes value
+2020-11-13 14:01:21,373  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Successfully Entered notes value
+2020-11-13 14:01:21,454  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - STEP#9: Add Activity
+2020-11-13 14:01:21,628  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] VerificationManager:251 - PASS : Validating the tooltip message is same as expected or not Actual value : Add Activity is same as Expected value: Add Activity
+2020-11-13 14:01:21,628  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Successfully validated Add activity value
+2020-11-13 14:01:21,719  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Successfully clicked on add activity
+2020-11-13 14:01:21,720  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - STEP#10: Selecting the second activity
+2020-11-13 14:01:22,055  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Successfully selected Activity
+2020-11-13 14:01:22,059  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - STEP#11: Delete Activity
+2020-11-13 14:01:22,224  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] VerificationManager:251 - PASS : Validating the tooltip message is same as expected or not Actual value : Delete Activity is same as Expected value: Delete Activity
+2020-11-13 14:01:22,224  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Successfully validated Delete activity value
+2020-11-13 14:01:22,318  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Successfully clicked on add activity
+2020-11-13 14:01:22,319  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - STEP#12: Submit button
+2020-11-13 14:01:22,634  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] VerificationManager:251 - PASS : Validating the tooltip message is same as expected or not Actual value : Timesheet submitted successfully is same as Expected value: Timesheet submitted successfully
+2020-11-13 14:01:22,635  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Successfully validated submit message
+2020-11-13 14:01:22,635  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Logout button
+2020-11-13 14:01:23,325  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - STEP#1: Entering the Email
+2020-11-13 14:01:23,466  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Successfully entered Email
+2020-11-13 14:01:23,467  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - STEP#2: Entering the Password
+2020-11-13 14:01:23,553  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Successfully entered Password
+2020-11-13 14:01:23,554  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - STEP#3: Click on Login button
+2020-11-13 14:01:25,508  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Successfully clicked on login button
+2020-11-13 14:01:25,508  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - STEP#4: Clicking on the Timesheet
+2020-11-13 14:01:26,110  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Successfully clicked on the Timesheet
+2020-11-13 14:01:26,111  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Validating the Breadcrum
+2020-11-13 14:01:26,187  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] VerificationManager:251 - PASS : Successfully validated the text Actual value : Timesheet Approve Timings is same as Expected value: Timesheet Approve Timings
+2020-11-13 14:01:26,187  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Successfully validated breadcrum
+2020-11-13 14:01:26,187  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Selecting the project
+2020-11-13 14:01:26,466  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Successfully selected Project
+2020-11-13 14:01:26,466  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Selecting the employee name
+2020-11-13 14:01:26,536  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Successfully selected employee dropdown
+2020-11-13 14:01:26,536  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Clicking approve button under action column
+2020-11-13 14:01:26,776  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] VerificationManager:251 - PASS : Validating the tooltip message is same as expected or not Actual value : Approved successfully is same as Expected value: Approved successfully
+2020-11-13 14:01:26,777  INFO [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] SampleTestScript:51 - Successfully clicked on approve button and validating Approve message
+2020-11-13 14:57:47,063 ERROR [com.atmecs.automationAspireportal.runner.TestNGRunner.main()] TestNGRunner:89 - Unknown error : : Cannot Upload the testng-results.xml Connection timed out: connect
